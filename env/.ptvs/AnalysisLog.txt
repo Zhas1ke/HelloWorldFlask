@@ -9221,3 +9221,7 @@ System.FormatException: Входная строка имела неверный 
 2017-05-19T10:41:17: Deleting 2 files
 2017-05-19T10:41:17: Deleting "c:\users\zhassulan\documents\visual studio 2017\Projects\HelloWorldFlask\env\.ptvs\_dummy_threading.idb"
 2017-05-19T10:41:17: Deleting "c:\users\zhassulan\documents\visual studio 2017\Projects\HelloWorldFlask\env\.ptvs\_dummy__threading_local.idb"
+
+2017-05-19T14:14:57: Start analysis
+2017-05-19T14:14:57: IncludeModulesFromModulePath = win32com
+2017-05-19T14:14:58: Deleting 409 files
