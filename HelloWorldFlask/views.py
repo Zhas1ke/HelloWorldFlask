@@ -4,7 +4,8 @@ Routes and views for the flask application.
 
 from datetime import datetime
 from flask import render_template, jsonify, abort, make_response, request, url_for
-from flask.ext.httpauth import HTTPBasicAuth
+#from flask.ext.httpauth import HTTPBasicAuth
+from flask_httpauth import HTTPBasicAuth
 from HelloWorldFlask import app
 
 auth = HTTPBasicAuth()
