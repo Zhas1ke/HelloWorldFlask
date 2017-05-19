@@ -68,6 +68,7 @@
     <Content Include="HelloWorldFlask\templates\contact.html" />
     <Content Include="HelloWorldFlask\templates\index.html" />
     <Content Include="HelloWorldFlask\templates\layout.html" />
+    <None Include="Shakenov - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
